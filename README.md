@@ -16,3 +16,36 @@
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,mysql,html,css,js" />
 </p>
+
+
+## 📊 GitHub Stats
+
+![Thanmayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanmayigavara&show_icons=true&theme=radical)
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=thanmayigavara&theme=radical)
+
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanmayigavara&layout=compact&theme=radical)
+
+
+## 🚀 Featured Projects
+
+🔹 SQL Data Analysis Projects  
+🔹 Python Mini Projects  
+🔹 JavaScript Coding Challenges  
+🔹 Web Development Projects
+
+
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thanmayi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanmayi-sri-vani-gavara-b251b72a2)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Thanmayi-orange?style=for-the-badge&logo=leetcode)](https://share.google/G8pDX0CMq4V9gMcLj)
+
+📧 Email: thanmayigavara@gmail.com
