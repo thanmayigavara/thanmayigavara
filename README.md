@@ -21,6 +21,10 @@
 <img src="https://skillicons.dev/icons?i=c,python,mysql,html,css,js" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thanmayigavara&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 
 ## 📊 GitHub Stats
 
