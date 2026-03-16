@@ -60,3 +60,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Thanmayi-orange?style=for-the-badge&logo=leetcode)](https://share.google/G8pDX0CMq4V9gMcLj)
 
 📧 Email: thanmayigavara@gmail.com
+
+
+
+<p align="center">
+⭐ Thanks for visiting my profile! <br>
+Feel free to connect or collaborate on interesting projects.
+</p>
